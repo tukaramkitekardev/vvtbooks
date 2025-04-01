@@ -45,9 +45,9 @@ if(!isset($user_id)){
       </div>
 
       <div class="content">
-         <h3>why choose us?</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet voluptatibus aut hic molestias, reiciendis natus fuga, cumque excepturi veniam ratione iure. Excepturi fugiat placeat iusto facere id officia assumenda temporibus?</p>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia corporis ratione saepe sed adipisci?</p>
+         <h3>About Us</h3>
+         <p>VVT Books is a Latur (Maharashtra) India based Online Books Store Where You Can Buy The Books Online.</p>
+         <p>VVT Books Started With a aim of providing the different types of books Online.</p>
          <a href="contact.php" class="btn">contact us</a>
       </div>
 
